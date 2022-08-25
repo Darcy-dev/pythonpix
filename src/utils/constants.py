@@ -1,7 +1,7 @@
 
 # PROD
 URL_ROOT_PROD = 'https://api-pix.gerencianet.com.br'
-CLIENT_ID = 'Client_Id_e23f45609c6df5de3e7e5f1f0a1ccb2a9bbf1c7d'
-CLIENT_SECRET = 'Client_Secret_dc8e679ac6ff4d77e2ce9007059ce67285f9ead2'
+CLIENT_ID = 'Client_Id_d8827014b38522f3784e4c6a63937d3cab4dda4f'
+CLIENT_SECRET = 'Client_Secret_dd39faa9d9e4c9d0a091d79d2dc6a3c6c3b7bd71'
 CERTIFICADO = 'src/certificado.pem'
 
